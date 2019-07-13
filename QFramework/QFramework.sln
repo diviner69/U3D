@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFramework", "QFramework.csproj", "{111C4462-2CFE-0EFA-9557-BF171DEC91AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFramework.Editor", "QFramework.Editor.csproj", "{61C728FA-7CC8-8E4C-67BD-64176B686E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111C4462-2CFE-0EFA-9557-BF171DEC91AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111C4462-2CFE-0EFA-9557-BF171DEC91AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111C4462-2CFE-0EFA-9557-BF171DEC91AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111C4462-2CFE-0EFA-9557-BF171DEC91AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C728FA-7CC8-8E4C-67BD-64176B686E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C728FA-7CC8-8E4C-67BD-64176B686E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C728FA-7CC8-8E4C-67BD-64176B686E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C728FA-7CC8-8E4C-67BD-64176B686E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
